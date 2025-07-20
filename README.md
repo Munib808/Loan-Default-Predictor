@@ -113,5 +113,5 @@ Best performing model: [Votting Classifier] with [83]%
 
 ## Technical Stack  
 - **Python Libraries**: Pandas, Scikit-learn, XGBoost, Imbalanced-learn  
-- **Visualization**: Plotly, Seaborn  
+- **Visualization**: Plotly, Seaborn , Matplolib
 - **Deployment**: Streamlit web app (`app.py` included!)  
