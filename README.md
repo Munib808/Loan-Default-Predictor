@@ -110,3 +110,8 @@ Focused on key parameters for each model
 
 ### Key Findings
 Best performing model: [Votting Classifier] with [83]%
+
+## 🛠️ Technical Stack  
+- **Python Libraries**: Pandas, Scikit-learn, XGBoost, Imbalanced-learn  
+- **Visualization**: Plotly, Seaborn  
+- **Deployment**: Streamlit web app (`streamlit.py` included!)  
